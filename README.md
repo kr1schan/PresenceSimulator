@@ -19,6 +19,7 @@ The system is a tangible user interface, called Presence Simulator. The simulate
 is transfered to android smartphones, on which the geographic location, stored in the de-
 vice’s operating system, is mocked accordingly. As a result, the evaluated applications are
 working with the mocked location data.
+
 To determine the effect of the test environment, the system was evaluated in a comparative
 study. In the study, a location-aware task reminder was compared to a conventional to-do-
 list. Half of the participants attended to field experiments. The other half used the Presence
